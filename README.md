@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Webiste](https://zainsajid.netlify.app/)
 
-- 🌱 I’m currently learning Next.js and PostgreSQL
+- 🌱 I’m currently learning Next.js and DigitalOcean
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
