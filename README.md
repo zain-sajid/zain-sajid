@@ -1,10 +1,10 @@
-### <div align="center">Hey There! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner🚀</div>
+### <div align="center">Hey there! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner🚀</div>
 
-- 🔭 I’m currently working on [My Portfolio Webiste](https://zainsajid.netlify.app/)
+- 🔭 I’m currently working with [Study Mind](https://studymind.co.uk/)
 
-- 🌱 I’m currently learning Next.js and DigitalOcean
+- 🌱 I’m currently learning Docker and Kubernetes
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to React, Node.js and related technologies
 
 - ⚡ Fun fact: I love playing video games!
 
