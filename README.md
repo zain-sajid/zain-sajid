@@ -1,10 +1,10 @@
 ### Hey there! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner 🚀
 
-- 🔭 I’m currently working with [Study Mind](https://studymind.co.uk/)
+- I’m currently working with [Study Mind](https://studymind.co.uk/)
 
-- 🌱 I’m currently learning Docker and Kubernetes
+- I’m currently learning Docker and Kubernetes
 
-- ❓ Ask me about anything related to React, Node.js, and related technologies
+- Ask me about anything related to React, Node.js, and related technologies
 
 ### Skills
 
