@@ -1,4 +1,4 @@
-### <div align="center">Hey there! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner 🚀</div>
+### <div>Hey there! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner 🚀</div>
 
 - 🔭 I’m currently working with [Study Mind](https://studymind.co.uk/)
 
