@@ -6,8 +6,6 @@
 
 - ❓ Ask me about anything related to React, Node.js, and related technologies
 
-<br/>
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
