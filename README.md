@@ -1,4 +1,4 @@
-### <div>Hey there! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner 🚀</div>
+### Hey there! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner 🚀
 
 - 🔭 I’m currently working with [Study Mind](https://studymind.co.uk/)
 
@@ -6,11 +6,11 @@
 
 - ❓ Ask me about anything related to React, Node.js, and related technologies
 
-## My Skill Set
+### Skills
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+#### Frontend
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -27,7 +27,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend
+#### Backend
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -42,7 +42,7 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps
+#### DevOps
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -53,7 +53,7 @@
 
 <br/>
 
-## Connect with me
+### Let's Connect
 
 <div align="center">
 <a href="https://github.com/zain-sajid" target="_blank">
@@ -76,7 +76,7 @@
 
 <br/>
 
-## Github Stats
+### Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zain-sajid&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
