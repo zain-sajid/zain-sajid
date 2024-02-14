@@ -2,7 +2,7 @@
 
 - I’m currently working with [Study Mind](https://studymind.co.uk/)
 
-- I’m currently learning Docker and Kubernetes
+- I’m currently learning about LLMs, Docker and Kubernetes
 
 - Ask me about anything related to React, Node.js, and related technologies
 
