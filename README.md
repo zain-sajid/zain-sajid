@@ -6,11 +6,6 @@
 
 - Ask me about anything related to React, Node.js, and related technologies
 
-- <h1 align="center">Hi 👋, I'm Zain Sajid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-- 🔭 I’m currently working on [UX Pilot](uxpilot.ai)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thezainsajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thezainsajid" height="30" width="40" /></a>
