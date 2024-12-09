@@ -1,4 +1,4 @@
-### Hey there! I'm Zain, a full-stack developer 👨‍💻 and a lifelong learner 🚀
+### Hey there! I'm Zain, a full-stack developer 👨‍💻
 
 - I’m currently learning about LLMs, Docker and Kubernetes
 
