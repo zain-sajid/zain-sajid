@@ -1,4 +1,4 @@
-### Hey there! I'm Zain, a full-stack developer
+### Hey! I'm Zain, a full-stack developer
 
 - Currently working as a Frontend Developer (Working Student) @ [ilert](https://www.ilert.com)
 - Also pursuing a Master's in Software Engineering @ [RWTH Aachen](https://www.rwth-aachen.de)
